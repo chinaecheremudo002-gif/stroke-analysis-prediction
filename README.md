@@ -22,3 +22,9 @@ Evaluate Model Performance: Compare models using metrics such as accuracy, preci
 # DATASET SOURCE
 The data used in this project comes from the publicly available Stroke Prediction Dataset provided on Kaggle . It contains anonymized patient information, including demographics, lifestyle habits, and medical indicators, collected to study factors associated with stroke occurrence.
  <img width="1047" height="756" alt="data head" src="https://github.com/user-attachments/assets/55e0621a-be5e-48d6-b3d8-adfacbdb1fce" />
+
+# Data Understanding and Exploratory Data Analysis (EDA)
+Before building a predictive model for stroke risk, it is essential to understand the dataset and explore its characteristics. This dataset contains patient demographic, lifestyle, and medical information, with each row representing a patient and columns representing individual attributes. The variables include a mix of numerical, categorical, and binary types.
+
+## Key Features:
+## <img width="952" height="694" alt="A DATA VARIABLE " src="https://github.com/user-attachments/assets/de2caced-6dfa-4b90-b46e-55865d9c784c" />
