@@ -18,3 +18,7 @@ Develop Predictive Models: Build and train machine learning models to predict th
 Create a Predictive Formula: Develop a formula where patient-specific variables (e.g., age, blood pressure, lifestyle factors) can be inputted to calculate an individual’s stroke risk.
 
 Evaluate Model Performance: Compare models using metrics such as accuracy, precision, recall, F1-score, and AUC to select the best-performing approach.
+
+# DATASET SOURCE
+The data used in this project comes from the publicly available Stroke Prediction Dataset provided on Kaggle . It contains anonymized patient information, including demographics, lifestyle habits, and medical indicators, collected to study factors associated with stroke occurrence.
+ <img width="1047" height="756" alt="data head" src="https://github.com/user-attachments/assets/55e0621a-be5e-48d6-b3d8-adfacbdb1fce" />
