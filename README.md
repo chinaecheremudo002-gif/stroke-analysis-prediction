@@ -51,3 +51,26 @@ Current smokers: males 6.82%, females 4.02%
 Takeaway: Age drives stroke risk; smoking amplifies it but is not the primary cause. Population size and comorbidities also affect total stroke counts.
 <img width="7169" height="5309" alt="smoke_rate" src="https://github.com/user-attachments/assets/50ad3c82-fe0a-4531-b427-848f789614d2" />
 
+# HYPERTENSION AND STROKE RISK
+Hypertension shows a strong relationship with stroke occurrence. Patients without hypertension have a stroke rate of 3.97%, while those with hypertension show a much higher rate of 13.25%, representing about a 3.3× increase in risk.
+
+Age appears to play an important role. The average age of non-hypertensive individuals is 41 years, compared with 62 years among hypertensive patients. Since stroke risk increases with age, this age gap likely contributes to the higher stroke rate observed in the hypertensive group.
+
+Other health indicators further highlight the risk. Hypertensive patients show higher average glucose levels (130 mg/dL) and a higher BMI (32.57), placing them in the obese category. In contrast, non-hypertensive individuals have lower glucose levels and fall within the overweight range.
+
+These findings suggest that hypertension is part of a broader cardiometabolic risk profile involving age, obesity, and impaired glucose control.
+# HEART DISEASE AND STROKE RISK
+An even stronger pattern appears with heart disease. Individuals without heart disease have a stroke rate of 4.18%, while those with heart disease show a much higher rate of 17.03%, nearly a fourfold increase in risk.
+
+Age differences are again substantial. The average age of individuals without heart disease is 41.8 years, compared with 68.2 years for those with heart disease. This older population is naturally more vulnerable to vascular damage and stroke.
+
+Patients with heart disease also exhibit higher glucose levels (136 mg/dL) and an average BMI of 30, placing them in the obese category. These metabolic factors further increase cardiovascular risk.
+
+## Key Insight
+The analysis reveals a clear cardiometabolic pattern. Patients with hypertension or heart disease tend to be older, heavier, and show higher glucose levels. Among these conditions, heart disease appears to be the strongest predictor of stroke in this dataset.
+
+While age may act as a confounding factor, the results highlight that individuals with hypertension and especially heart disease represent high-risk populations for stroke.
+<img width="6196" height="4708" alt="hyper_rate" src="https://github.com/user-attachments/assets/bb921015-fa01-4333-97a5-e8b9dfd4259c" />
+
+
+
