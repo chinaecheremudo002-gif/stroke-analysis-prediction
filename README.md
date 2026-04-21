@@ -28,3 +28,26 @@ Before building a predictive model for stroke risk, it is essential to understan
 
 ## Key Features:
 ## <img width="952" height="694" alt="A DATA VARIABLE " src="https://github.com/user-attachments/assets/de2caced-6dfa-4b90-b46e-55865d9c784c" />
+The dataset contains [5110] rows and [12] columns. Initial checks for missing values, correct data types, and valid ranges for numerical and binary variables ensured the data were ready for analysis.
+
+Building on this understanding, I conducted Exploratory Data Analysis (EDA) to uncover patterns and relationships among patient features and stroke occurrence. EDA helped identify key predictors, correlations, and imbalances in the dataset, guiding feature selection, preprocessing, and model development. I began by examining age, followed by medical conditions and lifestyle factors, to understand how each contributes to stroke risk.
+
+# STROKE RATE ANALYSIS BY AGE GROUP
+Stroke is rare in individuals under 40 (<1%). Still, risk rises sharply after 50, peaking at 18% in those aged 70 and above, with elders accounting for over half (51%) of all stroke cases, making age a major risk factor and highlighting the importance of focusing prevention efforts on adults aged 50 and older.
+ <img width="7169" height="5305" alt="age_rate" src="https://github.com/user-attachments/assets/3aff0ff7-2221-4592-b8bb-7ddc02a38156" />
+
+
+
+# STROKE RATE ANALYSIS BY SMOKING STATUS
+## Stroke and Smoking: Key Insights
+Former smokers have the highest stroke rate at 7.9%, higher than current smokers (5.3%). They tend to be older (average age 55) and have the highest rates of hypertension (13.6%) and heart disease (8.7%), suggesting many quit after health complications have already developed.
+Current smokers also show elevated risk (~5.3%, average age 47), while never smokers have lower individual risk (~5%) but contribute the most total strokes (36%) because this is the largest group.
+The Unknown group has the lowest stroke rate (3%), explained by younger age (average 30), not any protective effect.
+Age is the dominant driver: in a heatmap of stroke by age and smoking status, elders (70+) have a 17% stroke rate across all smoking categories. Within each age group, differences between smoking statuses are minor.
+## Gender differences:
+Former smokers: males 8.85%, females 7.13%
+Never smoked: females 5.13%, males 4.07%
+Current smokers: males 6.82%, females 4.02%
+Takeaway: Age drives stroke risk; smoking amplifies it but is not the primary cause. Population size and comorbidities also affect total stroke counts.
+<img width="7169" height="5309" alt="smoke_rate" src="https://github.com/user-attachments/assets/50ad3c82-fe0a-4531-b427-848f789614d2" />
+
